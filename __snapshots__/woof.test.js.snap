@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prints the result of the function and saves it 1`] = `"oh herrowoof!"`;
